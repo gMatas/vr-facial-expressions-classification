@@ -1,4 +1,4 @@
-# vr-facial-expressions-classification
+# Virtual Reality Modeling project (part 1)
 
 Facial emotions dataset used in this project can be found at: <a>https://github.com/muxspace/facial_expressions</a>
 
